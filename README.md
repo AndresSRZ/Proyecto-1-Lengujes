@@ -1,4 +1,5 @@
-Proyecto-1-Lengujes de Programacion
+Proyecto-1-Lenguajes de Programacion
+
 Proyecto relizado por: Andres Suarez y Samuel Alarcon
 
 Utilizamos el compilador de replit para realizar todo el proyecto.
